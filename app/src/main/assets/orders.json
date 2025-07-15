@@ -1,0 +1,22 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "status": "PAID",
+      "items": [1, 2, 3],
+      "totalCost": 4000.0,
+      "paidDate": "2025-07-02T10:30:00",
+      "deliveredDate": "2025-07-14T14:00:00"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "status": "PAID",
+      "items": [4, 5],
+      "totalCost": 1499.0,
+      "paidDate": "2025-07-07T22:30:00",
+      "deliveredDate": ""
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity 4</string>
+    <string name="cesta">Cesta</string>
+    <string name="usuario">Usuario</string>
+    <string name="add_to_carro">Añadir al Carro</string>
+    <string name="historico_pedidos">Histórico de Pedidos</string>
+</resources>

@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "oscar@oscar.com",
+      "password": "1234",
+      "name": "Oscar Tena",
+      "address": "Calle",
+      "city": "Hospitalet del Llobregat",
+      "phone": "",
+      "birthDate": "1975-01-01",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "email": "juanje@juanjesusmartinez.com",
+      "password": "1234",
+      "name": "Juan Jesús Martínez",
+      "address": "Calle",
+      "city": "Alcoy",
+      "phone": "635253532",
+      "birthDate": "1975-01-01",
+      "image": "https://avatars.githubusercontent.com/u/13917228?v=4"
+    }
+  ]
+}
+  

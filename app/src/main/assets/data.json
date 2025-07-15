@@ -1,0 +1,388 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Instrumentos de cuerda (Guitarras)",
+      "image": "https://www.stringsfield.com/blog/wp-content/uploads/2023/03/que-tipos-de-guitarras-existen.jpg",
+      "description": "Conjunto de Guitarras eléctricas y clásicas.",
+      "instruments": [
+        {
+          "id": 1,
+          "name": "Fender Stratocaster American Professional",
+          "description": "Guitarra eléctrica icónica, mástil de arce, tres pastillas single-coil V-Mod.",
+          "price": 1599.00,
+          "condition": "Nuevo",
+          "features": "Tremolo sincronizado, perfil de mástil Modern C",
+          "image": "https://m.media-amazon.com/images/I/71qeNMqKLVL._UF894,1000_QL80_.jpg",
+          "units": 1
+        },
+        {
+          "id": 2,
+          "name": "Gibson Les Paul Standard '50s",
+          "description": "Cuerpo de caoba, mástil de arce atornillado y pastillas burstbucker.",
+          "price": 2499.00,
+          "condition": "Nuevo",
+          "features": "Puente Tune Matic, acabado nitrocellulose",
+          "image": "https://sc1.musik-produktiv.com/pic-010113930xl/gibson-les-paul-standard-50s-tobacco-burst.jpg",
+          "units": 1
+        },
+        {
+          "id": 3,
+          "name": "Yamaha Pacifica 112V",
+          "description": "Guitarra versátil para iniciación y estudio, puente tremolo vintage.",
+          "price": 329.00,
+          "condition": "Nuevo",
+          "features": "Pastillas Alnico V, mástil atornillado",
+          "image": "https://r2.gear4music.com/media/67/674096/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 4,
+          "name": "Ibanez RG550 Prestige",
+          "description": "Guitarra de shred con perfil Wizard, pastillas V7/V8 y puente Edge.",
+          "price": 1499.00,
+          "condition": "Nuevo",
+          "features": "Trémolo flotante, bloque de grafito en mástil",
+          "image": "https://www.malaga8.com/61321-large_default/ibanez-rg550-pn-purple-neon-p-27491.jpg",
+          "units": 1
+        },
+        {
+          "id": 5,
+          "name": "Martin D 28",
+          "description": "Clásica acústica Dreadnought, tapa de abeto Sitka, aros y fondo de palosanto.",
+          "price": 2999.00,
+          "condition": "Nuevo",
+          "features": "Clavijas Grover, puente de ébano",
+          "image": "https://www.malaga8.com/34457-large_default/martin-d-28-p-10348.jpg",
+          "units": 1
+        },
+        {
+          "id": 6,
+          "name": "Taylor 214ce",
+          "description": "Acústica electro acústica Grand Auditorium, pastilla ES2.",
+          "price": 1599.00,
+          "condition": "Nuevo",
+          "features": "Mástil en caoba, binding en abeto",
+          "image": "https://r2.gear4music.com/media/108/1082484/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 7,
+          "name": "Epiphone Casino",
+          "description": "Guitarra hollow body semihueca, con pastillas P 90.",
+          "price": 999.00,
+          "condition": "Nuevo",
+          "features": "Puente Tune Matic, hardware dorado",
+          "image": "https://www.malaga8.com/66295-large_default/epiphone-casino-nat.jpg",
+          "units": 1
+        },
+        {
+          "id": 8,
+          "name": "Gretsch G5420T Electromatic",
+          "description": "Hollow body estilo vintage, pastillas BroadTron.",
+          "price": 1049.00,
+          "condition": "Nuevo",
+          "features": "Trémolo Bigsby B70, binding en tortoise",
+          "image": "https://r2.gear4music.com/media/108/1089732/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 9,
+          "name": "PRS SE Custom 24",
+          "description": "Guitarra de cuerpo atornillado, versátil y bien equilibrada.",
+          "price": 899.00,
+          "condition": "Nuevo",
+          "features": "Pastillas PRS 85/15 S, puente PRS Tremolo",
+          "image": "https://r2.gear4music.com/media/109/1091547/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 10,
+          "name": "Takamine GN93CE",
+          "description": "Acústica electro con cutaway, ideal para directo.",
+          "price": 699.00,
+          "condition": "Nuevo",
+          "features": "Sistema TP4T, tapa Spruce",
+          "image": "https://r2.gear4music.com/media/44/440700/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 11,
+          "name": "Fender Telecaster American Ultra",
+          "description": "Telémaco moderna con pastillas V-Mod Ultra Noiseless.",
+          "price": 1999.00,
+          "condition": "Nuevo",
+          "features": "Mástil en maple con “Modern D”",
+          "image": "https://alteisa.com/121826-large_default/guitarra-electrica-fender-american-ultra-ii-telecaster-avalanche-con-estuche.jpg",
+          "units": 1
+        },
+        {
+          "id": 12,
+          "name": "Gibson SG Standard '61",
+          "description": "SG más tradicional con maderas resonantes.",
+          "price": 2499.00,
+          "condition": "Nuevo",
+          "features": "Pastillas 490R/498T, clavijas Grover",
+          "image": "https://www.malaga8.com/47112-large_default/gibson-sg-standard-61-vch-p-32525.jpg",
+          "units": 1
+        },
+        {
+          "id": 13,
+          "name": "Yamaha APX600",
+          "description": "Electroacústica delgada, cómoda para vivo.",
+          "price": 449.00,
+          "condition": "Nuevo",
+          "features": "Sistema piezo SRT, cejuela GraphTech NuBone",
+          "image": "https://www.malaga8.com/36464-large_default/yamaha-apx600-natural-p-26903.jpg",
+          "units": 1
+        },
+        {
+          "id": 14,
+          "name": "Taylor GS Mini",
+          "description": "Acústica de tamaño reducido, excelente para viajes.",
+          "price": 699.00,
+          "condition": "Nuevo",
+          "features": "Tapa de spruce, binding en sapele",
+          "image": "https://r2.gear4music.com/media/107/1079416/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 15,
+          "name": "Ibanez AEG10NII",
+          "description": "Acústica electro con cutaway y preamp Fishman Sonicore.",
+          "price": 269.00,
+          "condition": "Nuevo",
+          "features": "Tapa sitka spruce, cejuela NuBone",
+          "image": "https://r2.gear4music.com/media/33/335510/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 16,
+          "name": "Guild M 240E Westerly",
+          "description": "Electroacústica dreadnought americana.",
+          "price": 649.00,
+          "condition": "Nuevo",
+          "features": "Sistema Fishman GT1, cuerpo de caoba",
+          "image": "https://www.malaga8.com/78853-home_default/guild-westerly-m-240e-natural-p-21648.jpg",
+          "units": 1
+        },
+        {
+          "id": 17,
+          "name": "Martin OM21",
+          "description": "Cuerpo de orquestal, tapa de abeto, aros de palosanto.",
+          "price": 3499.00,
+          "condition": "Nuevo",
+          "features": "Clavijas Gotoh, acabado Galactic Burst",
+          "image": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_55/556175/18317588_800.jpg",
+          "units": 1
+        },
+        {
+          "id": 18,
+          "name": "Seagull S6 Original",
+          "description": "Acústica de alta calidad canadiense.",
+          "price": 499.00,
+          "condition": "Nuevo",
+          "features": "Tapa cedro, diapasón de palisandro",
+          "image": "https://m.media-amazon.com/images/I/61png69qMAL.jpg",
+          "units": 1
+        },
+        {
+          "id": 19,
+          "name": "Epiphone Les Paul Standard",
+          "description": "Versión asequible de la Les Paul clásica.",
+          "price": 899.00,
+          "condition": "Nuevo",
+          "features": "Pastillas humbucker, puente Tune Matic",
+          "image": "https://r2.gear4music.com/media/109/1097469/600/preview.jpg",
+          "units": 1
+        },
+        {
+          "id": 20,
+          "name": "G&L ASAT Special",
+          "description": "Diseño estilo Telecaster, pastillas G&L alnico V.",
+          "price": 1199.00,
+          "condition": "Nuevo",
+          "features": "Hardtail bridge, perfil de mástil U",
+          "image": "https://muzikercdn.com/uploads/products/19323/1932374/main_81ec588e.jpg",
+          "units": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Instrumentos de percusión (CAJONES y BATERIAS).",
+      "image": "https://www.malaga8.com/modules/dbblog/views/img/post/Caja%20de%20una%20bater%C3%ADa%20-%20Malaga8.jpg",
+      "description": "Conjunto de cajones y baterías electrónicas y clásicas.",
+      "instruments": [
+        {
+          "id": 21,
+          "name": "Cajón Flamenco Meinl HCAJ1NT",
+          "description": "Cajón con cuerpo de abedul, ideal para flamenco y música acústica.",
+          "price": 99.0,
+          "condition": "Nuevo",
+          "features": "Sonido profundo con agudos brillantes",
+          "image": "https://m.media-amazon.com/images/I/81yezUiAQcL.jpg",
+          "units": 2
+        },
+        {
+          "id": 22,
+          "name": "Batería Acústica Pearl Export EXX725S",
+          "description": "Set completo de batería acústica con hardware y platos incluidos.",
+          "price": 799.0,
+          "condition": "Nuevo",
+          "features": "Cascos de álamo/caoba, pedal Demonator incluido",
+          "image": "https://www.tamtampercusion.com/59088-superlarge_default/pearl-export-standard-exx725s-jet-black.jpg",
+          "units": 2
+        },
+        {
+          "id": 23,
+          "name": "Roland V-Drums TD-17KVX",
+          "description": "Batería electrónica avanzada con pads de malla.",
+          "price": 1399.0,
+          "condition": "Nuevo",
+          "features": "Módulo TD-17 con sonidos realistas y funciones de coaching",
+          "image": "https://cdn11.bigcommerce.com/s-10xdzq6qo9/products/7235/images/5915/TD-17KVX2__51509.1731343602.386.513.jpg?c=1",
+          "units": 2
+        },
+        {
+          "id": 24,
+          "name": "Yamaha DTX6K-X #4",
+          "description": "Kit de batería electrónica compacto y asequible.",
+          "price": 899.0,
+          "condition": "Nuevo",
+          "features": "Pads de goma, módulo DTX6 y doble pedal",
+          "image": "https://es.yamaha.com/es/files/01_DTX6K5-M_f_0001_d3707d23fb311db45e89c548e681d1ce.jpg?impolicy=resize&imwid=2000&imhei=2000",
+          "units": 2
+        },
+        {
+          "id": 25,
+          "name": "Cajón Flamenco profesional KATHO",
+          "description": "Cajón con cuerpo de abedul, con madera Apache.",
+          "price": 262.00,
+          "condition": "Nuevo",
+          "features": "Sonido profundo, el mejor cajón profesional.",
+          "image": "https://katho-shop.com/wp-content/uploads/2018/03/KT08-1-e1531984921333.jpg",
+          "units": 2
+        },
+        {
+          "id": 26,
+          "name": "Batería Acústica Pearl Standard Ember Dawn Acustíca",
+          "description": "Set completo de batería acústica con hardware y platos incluidos.",
+          "price": 1043.0,
+          "condition": "Nuevo",
+          "features": "Cascos de álamo/caoba, pedal Demonator incluido",
+          "image": "https://musicopolix.com/136602-home_default/kit-exl-export-2218b-1007t-1208t-1616f-1455s-con-herrajes-platos-sbr-ember-dawn.jpg",
+          "units": 2
+        },
+        {
+          "id": 27,
+          "name": "Roland TD-17",
+          "description": "Roland TD-17 Drum Module.",
+          "price": 666.0,
+          "condition": "Nuevo",
+          "features": "Módulo TD-17 con sonidos nuevos y hardware actualizado.",
+          "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSr_MNpMWpNnwsgkcdbsEQBL5UL1UlKEhviL1T9rlS8S10qdFzVnyUNsiXx-ho5lLedT2PJpcmprVK093YSKAkMRjxMI3X9DIN4cvSgV4tQHJ2y_8pBzHHwXwot4w5wr35yB_nWNZ5f__Q&usqp=CAc",
+          "units": 2
+        },
+        {
+          "id": 28,
+          "name": "Yamaha DTX402KRL",
+          "description": "Kit de batería electrónica compacto y asequible.",
+          "price": 415.0,
+          "condition": "Nuevo",
+          "features": "Con módulo DTX402 con 287 nuevos sonidos.",
+          "image": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_44/443798/13696901_800.jpg",
+          "units": 2
+        },
+        {
+          "id": 29,
+          "name": "Cajón Flamenco EsKándalo Negro",
+          "description": "Cajón Konfusión de color negro.",
+          "price": 82.00,
+          "condition": "Nuevo",
+          "features": "Destaca tu pasión flamenca con el Cajón específico de EsKándalo.",
+          "image": "https://www.laguitarreria.es/6904-large_default/cajon-flamenco-eskandalo-konfusion-negro.jpg",
+          "units": 2
+        },
+        {
+          "id": 30,
+          "name": "Batería Acústica Pearl MT564C D33 Midtown",
+          "description": "Batería acústica con herrajes Pure White limited edition.",
+          "price": 629.0,
+          "condition": "Nuevo",
+          "features": "et de batería acústica de la serie Midtown compuesto por un bombo de 16 x 14 pulgadas, un tom de 10 x 7",
+          "image": "https://auvisa.com/cdn/shop/files/92510_hash_escaped_02.jpg",
+          "units": 2
+        },
+        {
+          "id": 31,
+          "name": "Roland VAD507 E-Drum Set",
+          "description": "Batería electrónica para profesionales.",
+          "price": 4440.0,
+          "condition": "Nuevo",
+          "features": "La tecnología de modelado de sonido prismático del buque insignia Roland TD-50",
+          "image": "https://static.roland.com/assets/images/products/gallery/vad507_front_gal.jpg",
+          "units": 2
+        },
+        {
+          "id": 32,
+          "name": "Yamaha DTX Multi 12",
+          "description": "Multipad profesional con 12 pads dinámicos (modo de baqueta, mano y dedo).",
+          "price": 498.0,
+          "condition": "Nuevo",
+          "features": "Multipad profesional todo en uno.",
+          "image": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_23/239067/12026448_800.jpg",
+          "units": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Instrumentos con teclado",
+      "image": "https://www.clefmusic.es/images/pianos-clasicos.jpg",
+      "description": "Conjunto de teclados electrónicos y clásicos.",
+      "instruments": [
+        {
+          "id": 33,
+          "name": "Yamaha P-125A",
+          "description": "Piano digital portátil con 88 teclas contrapesadas.",
+          "price": 555.0,
+          "condition": "Nuevo",
+          "features": "Sonido Pure CF, acción GHS",
+          "image": "https://m.media-amazon.com/images/I/61U6QapiqAL.jpg",
+          "units": 3
+        },
+        {
+          "id": 34,
+          "name": "Roland FP-30X",
+          "description": "Piano digital de alto rendimiento con Bluetooth MIDI.",
+          "price": 627.0,
+          "condition": "Nuevo",
+          "features": "Teclado PHA-4, altavoces integrados",
+          "image": "https://www.unionmusical.es/media/catalog/product/6/4/649769_4_4039.jpg",
+          "units": 3
+        },
+        {
+          "id": 35,
+          "name": "Korg B2",
+          "description": "Piano digital de entrada con sonidos naturales y polifonía de 120 notas.",
+          "price": 399.0,
+          "condition": "Nuevo",
+          "features": "88 teclas NH, USB MIDI",
+          "image": "https://m.media-amazon.com/images/I/51nMLJbhxXL.jpg",
+          "units": 3
+        },
+        {
+          "id": 36,
+          "name": "Casio PX-S1100",
+          "description": "Piano digital estilizado con altavoces de alta fidelidad.",
+          "price": 498.0,
+          "condition": "Nuevo",
+          "features": "Teclado Smart Scaled Hammer Action, Bluetooth Audio",
+          "image": "https://i.multisononline.com/86697-large_default/casio-privia-px-s1100-we-blanco.jpg",
+          "units": 3
+        }
+      ]
+    }
+  ]
+}
